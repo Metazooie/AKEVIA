@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LifecyclePlugin.cpp.obj": [
+			"FProcessInfo.cpp.obj",
+			"LifecycleModule.cpp.obj"
+		],
+		"Module.LifecyclePlugin.gen.cpp.obj": [
+			"FProcessInfo.gen.cpp.obj",
+			"LifecycleModule.gen.cpp.obj",
+			"LifecyclePlugin.init.gen.cpp.obj"
+		]
+	}
+}

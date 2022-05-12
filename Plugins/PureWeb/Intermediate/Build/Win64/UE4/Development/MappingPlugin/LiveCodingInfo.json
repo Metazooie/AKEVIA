@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MappingPlugin.cpp.obj": [
+			"MappingBlueprintLibrary.cpp.obj",
+			"MappingModule.cpp.obj"
+		],
+		"Module.MappingPlugin.gen.cpp.obj": [
+			"MappingBlueprintLibrary.gen.cpp.obj",
+			"MappingPlugin.init.gen.cpp.obj"
+		]
+	}
+}

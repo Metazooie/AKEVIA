@@ -1,0 +1,9 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"AgentPlugin": "UE4Editor-AgentPlugin.dll",
+		"LifecyclePlugin": "UE4Editor-LifecyclePlugin.dll",
+		"MappingPlugin": "UE4Editor-MappingPlugin.dll"
+	}
+}

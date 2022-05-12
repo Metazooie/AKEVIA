@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.AgentPlugin.cpp.obj",
+		"Module.AgentPlugin.gen.cpp.obj"
+	]
+}

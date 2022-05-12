@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AgentPlugin.cpp.obj": [
+			"AgentActor.cpp.obj",
+			"AgentModule.cpp.obj",
+			"AgentPlatformBlueprintLibrary.cpp.obj"
+		],
+		"Module.AgentPlugin.gen.cpp.obj": [
+			"AgentActor.gen.cpp.obj",
+			"AgentPlatformBlueprintLibrary.gen.cpp.obj",
+			"AgentPlugin.init.gen.cpp.obj"
+		]
+	}
+}

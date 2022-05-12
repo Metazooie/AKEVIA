@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AgentPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Kazooie\GIT\Dessert\Intermediate\Build\Win64\DessertEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\AgentPlugin\Module.AgentPlugin.cpp.obj"
+"E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\AgentPlugin\Module.AgentPlugin.gen.cpp.obj"
+"E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\AgentPlugin\Default.rc2.res"
+/OUT:"E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\AgentPlugin\UE4Editor-AgentPlugin.lib"

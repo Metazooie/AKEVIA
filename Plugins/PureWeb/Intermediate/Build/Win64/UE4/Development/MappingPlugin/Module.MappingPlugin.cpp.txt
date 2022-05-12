@@ -1,0 +1,21 @@
+E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Development\MappingPlugin\Definitions.MappingPlugin.h
+E:/Kazooie/GIT/Dessert/Plugins/PureWeb/Source/MappingPlugin/Private/MappingBlueprintLibrary.cpp
+E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Source\MappingPlugin\Public\MappingBlueprintLibrary.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\JsonUtilities/Public/JsonObjectConverter.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectWrapper.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Source\ThirdParty\platform-sdk-cpp\x64-windows-unreal\include\Mapping/Conversion.h
+E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Source\ThirdParty\platform-sdk-cpp\x64-windows-unreal\include\Mapping\../SharedLibraryExport.h
+E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Inc\MappingPlugin\MappingBlueprintLibrary.generated.h
+E:/Kazooie/GIT/Dessert/Plugins/PureWeb/Source/MappingPlugin/Private/MappingModule.cpp
+E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Source\MappingPlugin\Public\MappingModule.h
