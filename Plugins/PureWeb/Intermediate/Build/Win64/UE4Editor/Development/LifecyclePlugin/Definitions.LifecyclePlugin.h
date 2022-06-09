@@ -49,8 +49,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME SHOWROOM_UE
-#define UE_TARGET_NAME SHOWCASE_UEEditor
+#define UE_PROJECT_NAME akevia
+#define UE_TARGET_NAME akeviaEditor
 #define UE_MODULE_NAME "LifecyclePlugin"
 #define UE_PLUGIN_NAME "PureWeb"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

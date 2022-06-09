@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-MappingPlugin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Github\Showroom\Intermediate\Build\Win64\SHOWCASE_UEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.cpp.obj"
-"D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.gen.cpp.obj"
-"D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Default.rc2.res"
-/OUT:"D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\UE4Editor-MappingPlugin.lib"
+"D:\Github\AKEVIA\Intermediate\Build\Win64\akeviaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.cpp.obj"
+"D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.gen.cpp.obj"
+"D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Default.rc2.res"
+/OUT:"D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\UE4Editor-MappingPlugin.lib"

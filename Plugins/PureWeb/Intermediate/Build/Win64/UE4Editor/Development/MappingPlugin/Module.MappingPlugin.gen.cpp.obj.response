@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\Github\Showroom\Plugins\PureWeb\Source\MappingPlugin\Private
+/I D:\Github\AKEVIA\Plugins\PureWeb\Source\MappingPlugin\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -234,10 +234,10 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities
 /I Runtime\JsonUtilities\Public
-/I D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Inc\MappingPlugin
-/I D:\Github\Showroom\Plugins\PureWeb\Source
-/I D:\Github\Showroom\Plugins\PureWeb\Source\ThirdParty\platform-sdk-cpp\x64-windows-unreal\include
-/I D:\Github\Showroom\Plugins\PureWeb\Source\MappingPlugin\Public
+/I D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Inc\MappingPlugin
+/I D:\Github\AKEVIA\Plugins\PureWeb\Source
+/I D:\Github\AKEVIA\Plugins\PureWeb\Source\ThirdParty\platform-sdk-cpp\x64-windows-unreal\include
+/I D:\Github\AKEVIA\Plugins\PureWeb\Source\MappingPlugin\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -267,12 +267,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Github\Showroom\Intermediate\Build\Win64\SHOWCASE_UEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Github\Showroom\Intermediate\Build\Win64\SHOWCASE_UEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Github\Showroom\Intermediate\Build\Win64\SHOWCASE_UEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.gen.cpp"
-/FI"D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Definitions.MappingPlugin.h"
-/Fo"D:\Github\Showroom\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.gen.cpp.obj"
+/FI"D:\Github\AKEVIA\Intermediate\Build\Win64\akeviaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Github\AKEVIA\Intermediate\Build\Win64\akeviaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Github\AKEVIA\Intermediate\Build\Win64\akeviaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.gen.cpp"
+/FI"D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Definitions.MappingPlugin.h"
+/Fo"D:\Github\AKEVIA\Plugins\PureWeb\Intermediate\Build\Win64\UE4Editor\Development\MappingPlugin\Module.MappingPlugin.gen.cpp.obj"
 /TP
 /GR-
 /W4
