@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define LIFECYCLEPLUGIN_FProcessInfo_generated_h
 
-#define Showroom_Plugins_PureWeb_Source_LifecyclePlugin_Private_FProcessInfo_h_11_GENERATED_BODY \
+#define AKEVIA_Plugins_PureWeb_Source_LifecyclePlugin_Private_FProcessInfo_h_11_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FProcessInfo_Statics; \
 	LIFECYCLEPLUGIN_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> LIFECYCLEPLUGIN_API UScriptStruct* StaticStruct<struct FProcessInfo>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Showroom_Plugins_PureWeb_Source_LifecyclePlugin_Private_FProcessInfo_h
+#define CURRENT_FILE_ID AKEVIA_Plugins_PureWeb_Source_LifecyclePlugin_Private_FProcessInfo_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

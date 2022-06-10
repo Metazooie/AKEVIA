@@ -34,14 +34,14 @@
 #define WITH_PUSH_MODEL 0
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
-#define UE_LIVE_CODING_ENGINE_DIR "E:\\EpicGames\\UE_4.27\\Engine"
-#define UE_LIVE_CODING_PROJECT "E:\\Kazooie\\GIT\\Dessert\\Dessert.uproject"
+#define UE_LIVE_CODING_ENGINE_DIR "D:\\Programas\\UE_4.27\\Engine"
+#define UE_LIVE_CODING_PROJECT "D:\\Github\\AKEVIA\\akevia.uproject"
 #define UBT_MODULE_MANIFEST "UE4.modules"
 #define UBT_MODULE_MANIFEST_DEBUGGAME "UE4-Win64-DebugGame.modules"
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "UE4"
-#define UE_ENGINE_DIRECTORY "../../../../../EpicGames/UE_4.27/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../Programas/UE_4.27/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601
@@ -53,8 +53,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME Dessert
-#define UE_TARGET_NAME Dessert
+#define UE_PROJECT_NAME akevia
+#define UE_TARGET_NAME akevia
 #define UE_MODULE_NAME "MappingPlugin"
 #define UE_PLUGIN_NAME "PureWeb"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

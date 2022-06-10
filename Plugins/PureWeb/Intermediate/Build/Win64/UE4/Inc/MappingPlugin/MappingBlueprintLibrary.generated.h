@@ -15,15 +15,15 @@ struct FMappingWGS84;
 #endif
 #define MAPPINGPLUGIN_MappingBlueprintLibrary_generated_h
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_20_GENERATED_BODY \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_20_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMappingWGS84_Statics; \
 	MAPPINGPLUGIN_API static class UScriptStruct* StaticStruct();
 
 
 template<> MAPPINGPLUGIN_API UScriptStruct* StaticStruct<struct FMappingWGS84>();
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_SPARSE_DATA
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_SPARSE_DATA
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execBearingModel); \
 	DECLARE_FUNCTION(execBearingRealWorld); \
@@ -35,7 +35,7 @@ template<> MAPPINGPLUGIN_API UScriptStruct* StaticStruct<struct FMappingWGS84>()
 	DECLARE_FUNCTION(execConvertWGS84PointToModelPoint);
 
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execBearingModel); \
 	DECLARE_FUNCTION(execBearingRealWorld); \
@@ -47,7 +47,7 @@ template<> MAPPINGPLUGIN_API UScriptStruct* StaticStruct<struct FMappingWGS84>()
 	DECLARE_FUNCTION(execConvertWGS84PointToModelPoint);
 
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS_NO_PURE_DECLS \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMappingBlueprintLibrary(); \
 	friend struct Z_Construct_UClass_UMappingBlueprintLibrary_Statics; \
@@ -56,7 +56,7 @@ public: \
 	DECLARE_SERIALIZER(UMappingBlueprintLibrary)
 
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS \
 private: \
 	static void StaticRegisterNativesUMappingBlueprintLibrary(); \
 	friend struct Z_Construct_UClass_UMappingBlueprintLibrary_Statics; \
@@ -65,7 +65,7 @@ public: \
 	DECLARE_SERIALIZER(UMappingBlueprintLibrary)
 
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_STANDARD_CONSTRUCTORS \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMappingBlueprintLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMappingBlueprintLibrary) \
@@ -78,7 +78,7 @@ private: \
 public:
 
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_ENHANCED_CONSTRUCTORS \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMappingBlueprintLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -91,28 +91,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMappingBlueprintLibrary)
 
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_PRIVATE_PROPERTY_OFFSET
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_49_PROLOG
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_GENERATED_BODY_LEGACY \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_PRIVATE_PROPERTY_OFFSET
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_49_PROLOG
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_PRIVATE_PROPERTY_OFFSET \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_SPARSE_DATA \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_STANDARD_CONSTRUCTORS \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_PRIVATE_PROPERTY_OFFSET \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_SPARSE_DATA \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_GENERATED_BODY \
+#define AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_PRIVATE_PROPERTY_OFFSET \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_SPARSE_DATA \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS_NO_PURE_DECLS \
-	Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_ENHANCED_CONSTRUCTORS \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_PRIVATE_PROPERTY_OFFSET \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_SPARSE_DATA \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_INCLASS_NO_PURE_DECLS \
+	AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h_52_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -120,7 +120,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MAPPINGPLUGIN_API UClass* StaticClass<class UMappingBlueprintLibrary>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Showroom_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h
+#define CURRENT_FILE_ID AKEVIA_Plugins_PureWeb_Source_MappingPlugin_Public_MappingBlueprintLibrary_h
 
 
 #define FOREACH_ENUM_GRIDDIRECTIONALITY(op) \

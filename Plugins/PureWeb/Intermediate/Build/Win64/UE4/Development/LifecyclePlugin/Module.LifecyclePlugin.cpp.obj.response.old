@@ -32,7 +32,7 @@
 /wd4838
 /I .
 /I ..\Plugins\Media\PixelStreaming\Source\PixelStreaming\Private
-/I D:\Github\Dessert\Plugins\PureWeb\Source\LifecyclePlugin\Private
+/I E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Source\LifecyclePlugin\Private
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -127,8 +127,8 @@
 /I ..\Plugins\Media\PixelStreaming\Source\PixelStreaming\Public
 /I Runtime\Online
 /I Runtime\Online\HTTP\Public
-/I D:\Github\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Inc\LifecyclePlugin
-/I D:\Github\Dessert\Plugins\PureWeb\Source
+/I E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Inc\LifecyclePlugin
+/I E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -152,18 +152,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Github\Dessert\Intermediate\Build\Win64\Dessert\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Github\Dessert\Intermediate\Build\Win64\Dessert\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Github\Dessert\Intermediate\Build\Win64\Dessert\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Github\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Development\LifecyclePlugin\Module.LifecyclePlugin.cpp"
-/FI"D:\Github\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Development\LifecyclePlugin\Definitions.LifecyclePlugin.h"
-/Fo"D:\Github\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Development\LifecyclePlugin\Module.LifecyclePlugin.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"E:\Kazooie\GIT\Dessert\Intermediate\Build\Win64\Dessert\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\Kazooie\GIT\Dessert\Intermediate\Build\Win64\Dessert\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\Kazooie\GIT\Dessert\Intermediate\Build\Win64\Dessert\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Development\LifecyclePlugin\Module.LifecyclePlugin.cpp"
+/FI"E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Development\LifecyclePlugin\Definitions.LifecyclePlugin.h"
+/Fo"E:\Kazooie\GIT\Dessert\Plugins\PureWeb\Intermediate\Build\Win64\UE4\Development\LifecyclePlugin\Module.LifecyclePlugin.cpp.obj"
 /TP
 /GR-
 /W4
